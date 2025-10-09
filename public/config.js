@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/meridian_fi",
   "VITE_SEO_SITE_NAME": "Meridian Finance",
   "VITE_SEO_SITE_DESCRIPTION": "Own your trades. On-chain perpetual futures with deep liquidity, low cost & no limits.",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/eclipse-3175/",
+  "VITE_SEO_SITE_URL": "https://meridianfi.xyz",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@meridian_fi",
